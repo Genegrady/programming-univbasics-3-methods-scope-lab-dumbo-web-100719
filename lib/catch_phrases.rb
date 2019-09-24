@@ -13,5 +13,5 @@ def link
 end
 
 def any_phrase(phrase)
-  return ""
+  return "Do A Barrel Roll!"
 end
